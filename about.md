@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About | {{ site.title }}
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Jordan a software developer based in Melbourne, Australia.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am currently working at The Big Crunch (https://www.bigcrunch.io) where we are trying to take over the world of data.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I previously worked at an IT consultancy for 3 years while I was working on a side project called Bumble Metrics. Bumble Metrics was my first step into product development and startups.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Before that I worked at a digital messaging company after I finished studying at Swinburne University in Melbourne.
