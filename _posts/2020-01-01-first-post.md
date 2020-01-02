@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Welcome | {{ site.title }}
-date:   2019-12-31 17:48:23 -0600
+title:  First Post
 categories: general
+permalink: '/firstpost'
 ---
+# Who am I?
 
 Hello and welcome, I'm Jordan Wardle a software developer based in Melbourne. I've been in the industry for 8 years now.
 
