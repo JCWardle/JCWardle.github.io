@@ -6,9 +6,9 @@ permalink: '/firstpost'
 ---
 # Who am I?
 
-Hello and welcome, I'm Jordan Wardle a software developer based in Melbourne. I've been in the industry for 8 years now.
+Hello and welcome, I'm Jordan a software developer based in Melbourne. I've been in the industry for 8 years now.
 
-This is my first blog post I've taken the plunge and finally decided to build a blog.
+This is my first blog post, I've taken the plunge and finally decided to build a blog.
 
 Previously I've wrriten a few blog posts on Medium, and Dev.to. I've decided to make my own blog now so I can learn more about running a blog.
 
