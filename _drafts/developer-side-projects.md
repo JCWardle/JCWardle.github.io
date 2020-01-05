@@ -1,5 +1,7 @@
 # So you want to start a side project huh?
 
+![So you want to start a side project huh?](assets/../../assets/Developer-sideprojects/heading.png "So you want to start a side project huh?")
+
 When I first started my career as a Software Developer I was told working on projects outside of work is a must. I took this advice seriously and have started several side projects over the last few years. I've learnt lots working on my side projects but it's not a requirement for being a successful software developer, lots of people I've met in the industry rarely code outside of work and are excellent programmers. I've had a lot of fun working on my side projects, when they didn't become fun I often stopped and lost interest.
 
 ## Why are you doing this side project?
@@ -15,9 +17,13 @@ Some goals I've had for side projects in the past are:
 
 ## Making a plan to work on it
 
+![Make a plan](assets/../../assets/Developer-sideprojects/planning.png "Make a plan")
+
 It's a good idea to make a small plan for when you're going to be working on your side project, find a time that your often watching TV or doing something unproductive. Don't feel like you have to stick to your plan after all a side project is suppose to be fun don't force it. One of the best things about working on a side project is it's completely optional, if you're not feeling it don't worry about it and pick it up later when you feel like it.
 
 ## Deciding if you want to work with other people on your project
+
+![Team or go it alone?](assets/../../assets/Developer-sideprojects/team&#32;or&#32;no&#32;team.png "Team or go it alone?")
 
 ### A solo project
 Most of the side projects I've worked on I have worked on by myself and I have really enjoyed it. If your full time work is programming you're most likely working in a team where you work to the team's standards are ideals. This is the right thing to do at work, however, on your side project you can do whatever you like if you're on your own. I have really enjoyed this part of working on side projects by myself. You can just make things without having to talk to people, understand requirements and deal with pesky code reviews.

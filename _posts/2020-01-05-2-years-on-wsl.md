@@ -1,4 +1,15 @@
-# 2 Years using WSL (Windows Subsystem for Linux)
+---
+layout: post
+title: 2 Years using WSL (Windows Subsystem for Linux)
+categories: general
+permalink: '/2-years-on-wsl'
+image:
+  path: /assets/2-years-in-wsl/Cake.png
+  height: 541
+  width: 599
+---
+
+![2 years using WSL](/assets/2-years-in-wsl/heading.png "2 years using WSL")
 
 WSL or Windows Subsystem for Linux is similar to a virtual machine that you install, but it's built right into your Windows installations. You can run all your favourite Linux distributions in Windows now. I've been running Ubuntu in WSL to develop The Big Crunch, we have three developers with a mix between Windows 10, MAC OS and a Ubuntu production server. WSL let's us Windows developers run all the Linux build utilities and scripts same as the server rather than re-writing them in Windows bash or Powershell.
 
@@ -40,7 +51,7 @@ When I changed my WSL configuration to remove the `/mnt` prefix NPM failed to un
 
 Running a graphical application from WSL is annoying you need to use a program on windows called `xming` <http://www.straightrunning.com/XmingNotes/> which is a small server that WSL can communicate with to send graphics to your Windows installation. It's not too painful, if you've used CYGwin you are most likely familar with it. The part I found tricky was getting the Elixir performance monitor to display from our EC2 instance on my Windows machine, it's 3 or 4 layers of integration to get it to finally show in Windows and did my head in for a day or two. By the end I was begging for an Elixir performance monitor like `top` which runs in the terminal.
 
-(Image of integration cake)
+![Integration Cake](/assets/2-years-in-wsl/Cake.png "Integration cake")
 
 ### Searching your problems is hard
 
@@ -58,7 +69,7 @@ The one stop shop for setting up docker in WSL is here - <https://nickjanetakis.
 
 Microsoft don't recommend you modify files you use in WSL in Windows because the two operating systems have two fundamentally different permissions models. But with all rules they are made to be broken, I run VSCode directly in Windows and modify files that my WSL instance is running, compiling and serving. For the most part this is fine, until I use VSCode to move a file or folder, then all hell breaks loose. Windows locks the file in a strange way where WSL or Windows can't access it anymore, meaning you can't commit it to GIT, delete the file or do anything with it. Until you implement the age old solution of turning it off and on again. Now I'm familiar with the issue I encounter it rarely, but when I do it's really frustrating.
 
-(Turning off an on again image)
+![Try turning it off and on again](/assets/2-years-in-wsl/onoff.png "Try turning it off and on again")
 
 ## Overall
 

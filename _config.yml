@@ -22,6 +22,7 @@ github_username: JCWardle
 # Build settings
 markdown: kramdown
 theme: minima
+google_analytics: UA-78635258-2
 plugins:
   - jekyll-feed
   - jekyll-sitemap
