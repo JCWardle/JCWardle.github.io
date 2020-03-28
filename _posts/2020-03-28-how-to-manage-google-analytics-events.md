@@ -1,6 +1,13 @@
+---
+layout: post
+title:  How to manage Google Analytics events
+categories: general
+permalink: '/how-to-manage-google-analyics-events'
+---
+
 # How to manage google analytic events
 
-![How to manage google analytic events](/assets/how-to-manage-google-analytics-events/head.png "How to manage Google Analytic events")
+![How to manage google analytic events](/assets/GAEvents/head.png "How to manage Google Analytic events")
 
 Google Analytics is a helpful platform for understanding how your customers are using your website.
 Out of the box you get some fairly useful functionality such as, what pages customers are arriving on, what pages they go to after they've landed and if they're a new or returning user.
@@ -28,7 +35,7 @@ There's three types of events
 
 They are layed out in a hierarchy
 
-![Google analytics event hierarchy](</assets/how-to-manage-google-analytics-events/event heigharchy.png> "Google analytics event hierarchy")
+![Google analytics event hierarchy](</assets/GAEvents/event heigharchy.png> "Google analytics event hierarchy")
 
 Simply put, an event category has many event actions which have many event labels. To put this into practice let's use a YouTube video as an example. A YouTube Video can be paused, made fullscreen and liked.
 
@@ -49,11 +56,11 @@ The event actions are all different based on the type of action the user perform
 The inbuilt reporting on events in Google Analytics is really difficult to get any valuable information out.
 To make the most of your events you're better off making a `custom report`.
 
-![Google analytics event hierarchy](</assets/how-to-manage-google-analytics-events/New customreport.png> "Google analytics event hierarchy")
+![Google analytics event hierarchy](</assets/GAEvents/New customreport.png> "Google analytics event hierarchy")
 
 To create the event report add the following settings
 
-![Google analytics event custom report](/assets/how-to-manage-google-analytics-events/customreportsetup.png "Google analytics event custom report")
+![Google analytics event custom report](/assets/GAEvents/customreportsetup.png "Google analytics event custom report")
 
 With this report you can now see how often events are occuring on certain assets on you're site. You can also aggregate the results by removing the event label measure. This will show you all the times a video was paused using our YouTube example.
 
