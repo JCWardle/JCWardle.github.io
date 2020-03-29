@@ -1,18 +1,17 @@
-<div>
+<div class="resume-projects">
+  <hr />
+  <h2>
+    Experience
+  </h2>
   {% for project in site.data.resume.experience %}
-  <div>
-    <div>
+  <div class="resume-project">
+    <div class="resume-project-summary">
       <h3>
         {{project.title}}
       </h3>
-      <h5>
-        {{project.role}}
-      </h5>
-      <p>
-        {{project.date}}
-      </p>
+      <p>{{project.role}}<br />{{project.date}}</p>
     </div>
-    <div>
+    <div class="resume-project-description">
       {{project.description}}
     </div>
   </div>

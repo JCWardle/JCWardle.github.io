@@ -1,0 +1,51 @@
+.resume-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  @media screen and (max-width: $on-medium) {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+.resume-about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  p {
+    text-align: justify;
+  }
+  img {
+    width: 25%;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+}
+
+.resume-projects {
+  h2 {
+    margin-bottom: 30px;
+  }
+  .resume-project {
+    margin-bottom: 30px;
+    display: flex;
+
+    @media screen and (max-width: $on-medium) {
+      flex-direction: column;
+      margin-bottom: 45px;
+      .resume-project-summary {
+        text-align: center;
+      }
+    }
+
+    .resume-project-summary {
+      flex-basis: 33%;
+      flex-grow: 0;
+      flex-shrink: 0;
+    }
+    .resume-project-description {
+      text-align: justify;
+    }
+  }
+}
