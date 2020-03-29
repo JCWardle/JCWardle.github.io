@@ -1,0 +1,14 @@
+<div>
+  {% for skills in site.data.resume.skills %}
+  <h2>
+    {{skills.title}}
+  </h2>
+  <ul>
+    {% for skill in skills.skills %}
+    <li>
+      <p>{{skill}}</p>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</div>
