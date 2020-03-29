@@ -11,11 +11,11 @@ experience:
     description: "At The Big Crunch I started as a fullstack engineer working in Elixir, NodeJS, React and an assortment of other frontend JavaScript frameworks. 6 Months into my journey at The Big Crunch I became co-founder. The Big Crunch was a challenging project to work on, intitally the product was an infinite spreadsheet that enabled our customers to collaborate on formula's, data and other mixed content. It was an extreme challenge to get the system to scale correctly. Ultimately we did pivot to a new product called Fickle (https://fickleit.com). I built Fickle from scratch using an event sourced model using NodeJS, React, EventStore and Docker."
   - title: "University Of Melbourne"
     role: "Scrum Master"
-    date: "June 2017 - Dec 2017"
+    date: "June 2017 - December 2017"
     description: "At the University Of Melbourne I was the Scrum Master for a team of 7 people in the Academic Application Services team. I was responsible for running all the scrum rituals such as retrospectives, stand-ups, planning sessions and backlog refinement."
   - title: "DWS"
     role: "Full Stack engineer"
-    date: "June 2014 - April 2017"
+    date: "June 2014 - May 2017"
     description: "At DWS I worked for a number of clients which allowed me to gather a wealth of experience quickly. I worked for NAB, MLC and Crown Casio. My biggest achievement at DWS was leading a development team working on a product for pricing home loans faster for mortgage brokers it was built in AngularJS. I was working with a junior team and worked to up=skill everyone in the team so we could meet our strict deadline. The roles I performed at MLC and Crown Casino were all based on the Microsoft technology stack using .NET and IIS."
 
 skills:
@@ -36,3 +36,4 @@ skills:
       - "Sass"
       - "Material UI"
       - "BootStrap"
+      - "and many more..."
